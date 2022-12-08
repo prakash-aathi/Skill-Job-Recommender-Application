@@ -1,6 +1,5 @@
 # Skill / Job Recommender Application
 
-###  __`Team ID : PNT2022TMID22461`__
 
 <img src="https://s.yimg.com/aah/yhst-142559966768543/job-search-4.jpg" alt="🌱" > <span>
 
@@ -11,16 +10,13 @@ by using the search option and get their dream job.
 
 ## For Easy access
 
-# Folder Structure
-
-- **Final Deliverables**
-  - [live website](https://job-app-y5a9.onrender.com/)
-  - [if not work above link click here live website] (https://web-production-e691.up.railway.app/)
+  - [live website-1](https://job-app-y5a9.onrender.com/)
+  - [live website-2](https://web-production-e691.up.railway.app/)
   - [Video](https://www.youtube.com/watch?v=b-D07LMPVlw)
-  - [Project Report Documentation](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/blob/master/Final%20Deliverables/Project%20Report%20Documentation.pdf)
-  - [source code](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/tree/master/Final%20Deliverables/Source%20code)
+  - [Project Report](https://github.com/prakash-aathi/Skill-Job-Recommender-Application/blob/main/Project%20report/Project%20Report%20Documentation.pdf)
+  - [source code](https://github.com/prakash-aathi/Skill-Job-Recommender-Application/tree/main/Source%20code)
   - [documentation of source code](https://ibm-epbl.github.io/IBM-Project-20991-1659768892/Final%20Deliverables/Source%20code/documentation/app.html)
-  - [database Schema](https://github.com/IBM-EPBL/IBM-Project-20991-1659768892/blob/master/Final%20Deliverables/Database-schema/db-schema.pdf)
+  - [database Schema](https://github.com/prakash-aathi/Skill-Job-Recommender-Application/blob/main/Database-schema/db-schema.pdf)
   
 
 
