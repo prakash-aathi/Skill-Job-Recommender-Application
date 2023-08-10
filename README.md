@@ -11,7 +11,7 @@ by using the search option and get their dream job.
 ## For Easy access
 
   - [live website-1](https://job-app-y5a9.onrender.com/)
-  - [live website-2](https://web-production-e691.up.railway.app/)
+    (Hosted on free tier, it will take few minutes to load...)
   - [Video](https://www.youtube.com/watch?v=b-D07LMPVlw)
   - [Project Report](https://github.com/prakash-aathi/Skill-Job-Recommender-Application/blob/main/Project%20report/Project%20Report%20Documentation.pdf)
   - [source code](https://github.com/prakash-aathi/Skill-Job-Recommender-Application/tree/main/Source%20code)
